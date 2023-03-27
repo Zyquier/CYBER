@@ -1,0 +1,4 @@
+project from: https://www.geeksforgeeks.org/intrusion-detection-system-using-machine-learning-algorithms/
+
+pratice for me.
+Python and pratcing implementing/understanding machine learning within for the purpose of the project.
